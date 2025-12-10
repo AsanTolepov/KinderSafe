@@ -1,0 +1,7 @@
+{
+  "name": "BabySteps Tracker",
+  "description": "A comprehensive, mobile-first baby tracking application for parents. Features logging for feeding, sleep, diapers, and growth, plus an AI-powered parenting assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

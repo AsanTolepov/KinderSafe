@@ -44,53 +44,53 @@ const FOOD_TYPES = [
 const VIDEOS = [
   {
     id: 1,
-    title: "Ranglar va shakllar (multfilm)",
-    url: 'https://www.youtube.com/watch?v=tVlcKp3bWH8',
+    title: "Beshta Kichkina Chaqaloq Karavotga Sakrash + Maktabgacha Qofiyalar Bolalar Uchun",
+    url: 'https://youtu.be/lqYmsIjBwKQ?si=4EU9VK7FeBQrJUiv',
   },
   {
     id: 2,
-    title: "Alifboni o‘rganamiz",
-    url: 'https://www.youtube.com/watch?v=75p-N9YKqNo',
+    title: "Учим Первые Слова с Детьми! ",
+    url: 'https://youtu.be/hj7c6DXmgz0?si=23naHHOsJWAOm05Q',
   },
   {
     id: 3,
-    title: "Yumshoq uyqu qo‘shig‘i (lullaby)",
-    url: 'https://www.youtube.com/watch?v=1vhfnv9DEjE',
+    title: "По полям Синий трактор едет к нам - Песенка мультик для детей",
+    url: 'https://youtu.be/LbOve_UZZ54?si=-NmnxrF1_mnACEZn',
   },
   {
     id: 4,
-    title: 'Raqamlar 1–10',
-    url: 'https://www.youtube.com/watch?v=D0Ajq682yrA',
+    title: 'A Ram Sam Sam | Cantec pentru copii + karaoke | HeyKids',
+    url: 'https://youtu.be/935UBEm0gg0?si=MIem6o7bpLdXhZ1V',
   },
   {
     id: 5,
-    title: 'Bolalar uchun tinchlantiruvchi musiqa',
-    url: 'https://www.youtube.com/watch?v=1ZYbU82GVz4',
+    title: 'Qadimgi Makdonaldning Fermasi Bor Edi + Bolalar Uchun Ko'proq maktabgacha Qofiyalar',
+    url: 'https://youtu.be/zw59NXJPEfg?si=4oGn3MvezKbTXii4',
   },
   {
     id: 6,
-    title: "Multfilm qo‘shiq: Hayvonlar",
-    url: 'https://www.youtube.com/watch?v=qITDtbFNvoc',
+    title: "Wheels on the Bus + Johny Johny Yes Papa | Most Popular Kids Songs Compilation | LooLoo Kids",
+    url: 'https://youtu.be/2zOGMdRDvyg?si=A6T6qlwWLTcFDGX3',
   },
   {
     id: 7,
-    title: 'Alifbo qo‘shig‘i',
-    url: 'https://www.youtube.com/watch?v=ez5fBa1TYuE',
+    title: 'Joja Жужаларим Узбекча',
+    url: 'https://youtu.be/VbqWNo4o6KE?si=JjsJh3BSbKZv2ZzC',
   },
   {
     id: 8,
-    title: 'Tabiat manzaralari bilan musiqa',
-    url: 'https://www.youtube.com/watch?v=1Y1Yq1q1q1Q',
+    title: 'Маша и Медведь - Колыбельная песня (Спи, моя радость, усни!)',
+    url: 'https://youtu.be/Rer9g8kd4IY?si=cX_7g4SqbbjCOmWt',
   },
   {
     id: 9,
-    title: 'Bolalar uchun tasalli videolar',
-    url: 'https://www.youtube.com/watch?v=2OEL4P1Rz04',
+    title: 'Wheels on the Bus | @CoComelon Nursery Rhymes & Kids Songs',
+    url: 'https://youtu.be/e_04ZrNroTo?si=11rv5jlhgQQlBLOu',
   },
   {
     id: 10,
-    title: 'Raqsli multfilm qo‘shig‘i',
-    url: 'https://www.youtube.com/watch?v=GR2o6k8aPlI',
+    title: 'Сборник Песен Для Самых Маленьких 0+ |Канал раннего развития - ЛаЛаЛуна.',
+    url: 'https://youtu.be/HGmTR2PT5h0?si=2kRO691oTcRQl_Ku',
   },
 ];
 

@@ -64,7 +64,8 @@ const VIDEOS = [
   },
   {
     id: 5,
-    title: 'Qadimgi Makdonaldning Fermasi Bor Edi + Bolalar Uchun Ko'proq maktabgacha Qofiyalar',
+    title:
+      'Qadimgi Makdonaldning Fermasi Bor Edi + Bolalar Uchun Ko\'proq maktabgacha Qofiyalar',
     url: 'https://youtu.be/zw59NXJPEfg?si=4oGn3MvezKbTXii4',
   },
   {
